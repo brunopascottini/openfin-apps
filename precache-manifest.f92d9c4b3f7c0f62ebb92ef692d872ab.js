@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e4ce9abe2ac553051524f805ac4d01e6",
+    "revision": "e9a11182acae41b97eaeeaa85eb29f58",
     "url": "/openfin-apps/index.html"
   },
   {
-    "revision": "eb98bee3d6b3db898440",
+    "revision": "6978852ed217f8fe32f8",
     "url": "/openfin-apps/static/css/main.7854601e.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/openfin-apps/static/js/2.8818dd2d.chunk.js"
   },
   {
-    "revision": "eb98bee3d6b3db898440",
-    "url": "/openfin-apps/static/js/main.f531c510.chunk.js"
+    "revision": "6978852ed217f8fe32f8",
+    "url": "/openfin-apps/static/js/main.b77c22d6.chunk.js"
   },
   {
     "revision": "b0e6d45d1a1602c995b9",
