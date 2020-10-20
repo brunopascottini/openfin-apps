@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/openfin-apps/static/css/main.7854601e.chunk.css",
-    "main.js": "/openfin-apps/static/js/main.b77c22d6.chunk.js",
-    "main.js.map": "/openfin-apps/static/js/main.b77c22d6.chunk.js.map",
+    "main.css": "/openfin-apps/static/css/main.5e9ff030.chunk.css",
+    "main.js": "/openfin-apps/static/js/main.c8d47d1a.chunk.js",
+    "main.js.map": "/openfin-apps/static/js/main.c8d47d1a.chunk.js.map",
     "runtime-main.js": "/openfin-apps/static/js/runtime-main.d98edcba.js",
     "runtime-main.js.map": "/openfin-apps/static/js/runtime-main.d98edcba.js.map",
     "static/js/2.8818dd2d.chunk.js": "/openfin-apps/static/js/2.8818dd2d.chunk.js",
     "static/js/2.8818dd2d.chunk.js.map": "/openfin-apps/static/js/2.8818dd2d.chunk.js.map",
     "index.html": "/openfin-apps/index.html",
-    "precache-manifest.f92d9c4b3f7c0f62ebb92ef692d872ab.js": "/openfin-apps/precache-manifest.f92d9c4b3f7c0f62ebb92ef692d872ab.js",
+    "precache-manifest.f70824e44a2e3a343a931ea9c5385d3f.js": "/openfin-apps/precache-manifest.f70824e44a2e3a343a931ea9c5385d3f.js",
     "service-worker.js": "/openfin-apps/service-worker.js",
-    "static/css/main.7854601e.chunk.css.map": "/openfin-apps/static/css/main.7854601e.chunk.css.map",
+    "static/css/main.5e9ff030.chunk.css.map": "/openfin-apps/static/css/main.5e9ff030.chunk.css.map",
     "static/media/cancel.b6512207.svg": "/openfin-apps/static/media/cancel.b6512207.svg",
     "static/media/close.777b93c6.svg": "/openfin-apps/static/media/close.777b93c6.svg",
     "static/media/done.e249914e.svg": "/openfin-apps/static/media/done.e249914e.svg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.d98edcba.js",
     "static/js/2.8818dd2d.chunk.js",
-    "static/css/main.7854601e.chunk.css",
-    "static/js/main.b77c22d6.chunk.js"
+    "static/css/main.5e9ff030.chunk.css",
+    "static/js/main.c8d47d1a.chunk.js"
   ]
 }
