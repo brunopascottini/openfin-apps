@@ -54,7 +54,7 @@ const ChartControls = styled.div`
   }
 `
 
-function Chart({ objectId, dimensions, measures, title, xLabel, yLabel, theme: propTheme, viewbox, type: propChartType, xTickFormat, yTickFormat, xTickCount, yTickCount, height: propHeight }) {
+function Chart({ documentTitle ,objectId, dimensions, measures, title, xLabel, yLabel, theme: propTheme, viewbox, type: propChartType, xTickFormat, yTickFormat, xTickCount, yTickCount, height: propHeight }) {
   const { dimMeasureCheck } = useChecks()
 
   const { createObject, getObject, getObjectLayout } = useContext(ObjectsContext)
@@ -123,6 +123,7 @@ function Chart({ objectId, dimensions, measures, title, xLabel, yLabel, theme: p
   }, [win.width, propHeight])
 
   useEffect(() => {
+    document.title = documentTitle
     if (!model) {
       if(objectId) {
         getObject(objectId).then(m => {

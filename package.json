@@ -1,5 +1,6 @@
 {
   "name": "qlik-sense-clone_context",
+  "homepage": "https://brunopascottini.github.io/openfin-apps",
   "version": "0.0.1",
   "dependencies": {
     "d3": "^5.14.2",
@@ -17,6 +18,7 @@
   "devDependencies": {
     "execa": "^4.0.0",
     "fs-extra": "^8.1.0",
+    "gh-pages": "^3.1.0",
     "gulp": "^4.0.2",
     "gulp-git": "^2.10.0",
     "semver": "^7.1.1",
@@ -27,7 +29,8 @@
     "build": "react-scripts build",
     "publish": "gulp template",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
