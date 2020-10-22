@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/openfin-apps/precache-manifest.7b372cb2f8fe9c52dc14dbafd0da46f0.js"
+  "/openfin-apps/precache-manifest.dba4674cdcf7953fdbc6362968cc7957.js"
 );
 
 self.addEventListener('message', (event) => {
